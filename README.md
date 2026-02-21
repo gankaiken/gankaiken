@@ -1,16 +1,33 @@
-## Hi there 👋
+```markdown
+# 👋 Hi, I'm Kai Ken  
+🚀 Data Science Student | Research Assistant | Systems Builder
+🎓 YTL Scholar
+📍 Monash University 
 
-<!--
-**gankaiken/gankaiken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me  
+I build structured solutions to complex problems combining data, leadership, and execution.
+- 🎓 Bachelor of Computer Science (Data Science)  
+- 📊 Research Assistant
+- 🏆 Former Student Council Executive - Led initiatives engaging 1,000+ participants  
+- 🤝 Secured and managed corporate sponsorships  
 
-Here are some ideas to get you started:
+## ⚙️ Technical Focus  
+- Python  
+- Data Analytics  
+- Object-Oriented Programming  
+- Research Documentation  
+- Process Optimization  
+- Analytical Thinking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Long-Term Vision  
+To integrate technology + finance at institutional scale.  
+Future pathway: ICAEW qualification alongside advanced data specialization.
+
+## 🤝 Open To  
+- Data & Analytics Internships  
+- Tech / FinTech Roles  
+- Research Collaborations  
+- High-performance environments  
+
+### 💡 Philosophy  
+> Build. Optimize. Lead. Scale.
